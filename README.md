@@ -194,7 +194,7 @@ The actual time required depends on your prior experience, the depth of study, a
 
 Build a clear understanding of the learning path before beginning the technical modules.
 
-📂 **Explore:** [Getting Started](00-Getting-Started/README.md)
+📂 **Explore:** [Getting Started](00-Getting-Started/)
 
 | # | Sub-Topic | Description |
 |---|---|---|
