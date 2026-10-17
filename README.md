@@ -164,41 +164,28 @@ The actual time required depends on your prior experience, the depth of study, a
 
 ---
 
-# 📚 Table of Contents
-
-## Core Learning Modules
+## 📚 Table of Contents
 
 | Module | Topic | Description |
 |---|---|---|
-| 00 | [Getting Started](00-Getting-Started/README.md) | Understand the repository, prerequisites, and learning roadmap. |
-| 01 | [Generative AI Fundamentals](01-Generative-AI-Fundamentals/README.md) | Learn AI fundamentals, LLMs, tokens, context windows, and limitations. |
-| 02 | [Introduction to Claude](02-Introduction-to-Claude/README.md) | Understand Claude, its capabilities, models, and interface. |
-| 03 | [Prompt Engineering](03-Prompt-Engineering/README.md) | Learn to write effective, structured, and reusable prompts. |
-| 04 | [Output Evaluation and Validation](04-Output-Evaluation-and-Validation/README.md) | Verify AI responses and improve their quality. |
-| 05 | [AI-Assisted Workflows](05-AI-Assisted-Workflows/README.md) | Apply AI to research, writing, analysis, and problem-solving. |
-| 06 | [Projects and Knowledge Management](06-Projects-and-Knowledge-Management/README.md) | Organize instructions, conversations, and reference materials. |
-| 07 | [Responsible AI and Governance](07-Responsible-AI-and-Governance/README.md) | Learn privacy, security, governance, and responsible AI practices. |
-| 08 | [Troubleshooting and Optimization](08-Troubleshooting-and-Optimization/README.md) | Improve weak responses and optimize AI-assisted workflows. |
-
-## Practical Specializations
-
-| Module | Topic | Description |
-|---|---|---|
-| 09 | [AI for Software Developers](09-AI-for-Software-Developers/README.md) | Apply AI to coding, debugging, testing, and documentation. |
-| 10 | [AI for DevOps and Cloud](10-AI-for-DevOps-and-Cloud/README.md) | Apply AI to infrastructure, CI/CD, troubleshooting, and cloud operations. |
-| 11 | [AI for QA and Testing](11-AI-for-QA-and-Testing/README.md) | Improve test design, test coverage, and defect analysis. |
-| 12 | [AI for Data and Business](12-AI-for-Data-and-Business/README.md) | Use AI for SQL assistance, analysis, reporting, and business tasks. |
-| 13 | [Advanced AI Concepts](13-Advanced-AI-Concepts/README.md) | Explore APIs, tool use, RAG, MCP, and AI agents. |
-
-## Certification and Practical Learning
-
-| Module | Topic | Description |
-|---|---|---|
-| 14 | [Certification Preparation](14-Certification-Preparation/README.md) | Review the official exam blueprint and practice relevant concepts. |
-| 15 | [Hands-On Labs](15-Hands-On-Labs/README.md) | Reinforce concepts through guided exercises. |
-| 16 | [Capstone Projects](16-Capstone-Projects/README.md) | Build complete AI-assisted workflows and practical projects. |
-| 17 | [Revision and Reference](17-Revision-and-Reference/README.md) | Review terminology, FAQs, prompt templates, and learning resources. |
-
+| 00 | [Getting Started](#00-getting-started) | Understand the course and learning roadmap. |
+| 01 | [Generative AI Fundamentals](#01-generative-ai-fundamentals) | Learn LLMs, tokens, context windows, and limitations. |
+| 02 | [Introduction to Claude](#02-introduction-to-claude) | Explore Claude and its capabilities. |
+| 03 | [Prompt Engineering](#03-prompt-engineering) | Learn to write effective prompts. |
+| 04 | [Output Evaluation and Validation](#04-output-evaluation-and-validation) | Evaluate and validate AI responses. |
+| 05 | [AI-Assisted Workflows](#05-ai-assisted-workflows) | Apply AI to real-world tasks. |
+| 06 | [Projects and Knowledge Management](#06-projects-and-knowledge-management) | Organize instructions and reference material. |
+| 07 | [Responsible AI and Governance](#07-responsible-ai-and-governance) | Learn privacy, security, and responsible AI. |
+| 08 | [Troubleshooting and Optimization](#08-troubleshooting-and-optimization) | Improve AI responses and workflows. |
+| 09 | [AI for Software Developers](#09-ai-for-software-developers) | Apply AI to coding and debugging. |
+| 10 | [AI for DevOps and Cloud](#10-ai-for-devops-and-cloud) | Apply AI to CI/CD and cloud operations. |
+| 11 | [AI for QA and Testing](#11-ai-for-qa-and-testing) | Improve test design and defect analysis. |
+| 12 | [AI for Data and Business](#12-ai-for-data-and-business) | Apply AI to analysis and reporting. |
+| 13 | [Advanced AI Concepts](#13-advanced-ai-concepts) | Explore APIs, RAG, MCP, and AI agents. |
+| 14 | [Certification Preparation](#14-claude-certification-preparation) | Prepare for the Claude certification. |
+| 15 | [Hands-On Labs](#15-hands-on-labs) | Practise with guided exercises. |
+| 16 | [Capstone Projects](#16-capstone-projects) | Build practical AI-assisted projects. |
+| 17 | [Revision and Reference](#17-revision-and-reference) | Review important concepts and resources. |
 ---
 
 # 00. Getting Started
