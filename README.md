@@ -231,18 +231,18 @@ Build a strong foundation in artificial intelligence, generative AI, large langu
 
 | # | Sub-Topic | Description |
 |---|---|---|
-| 1.1 | [Introduction to Artificial Intelligence](01-Generative-AI-Fundamentals/01-Introduction-to-Artificial-Intelligence.md) | Understand AI and its applications. |
-| 1.2 | [Machine Learning Fundamentals](01-Generative-AI-Fundamentals/02-Machine-Learning-Fundamentals.md) | Learn how machine learning differs from traditional programming. |
-| 1.3 | [Introduction to Generative AI](01-Generative-AI-Fundamentals/03-Introduction-to-Generative-AI.md) | Understand how generative AI creates content. |
-| 1.4 | [Understanding Large Language Models](01-Generative-AI-Fundamentals/04-Understanding-Large-Language-Models.md) | Learn the basic principles behind LLMs. |
-| 1.5 | [How LLMs Generate Responses](01-Generative-AI-Fundamentals/05-How-LLMs-Generate-Responses.md) | Understand next-token prediction at a high level. |
-| 1.6 | [Tokens and Tokenization](01-Generative-AI-Fundamentals/06-Tokens-and-Tokenization.md) | Learn how text is represented as tokens. |
-| 1.7 | [Context Windows](01-Generative-AI-Fundamentals/07-Context-Windows.md) | Understand the amount of information a model can process in context. |
-| 1.8 | [Training and Inference](01-Generative-AI-Fundamentals/08-Training-and-Inference.md) | Distinguish model training from response generation. |
-| 1.9 | [Model Capabilities and Limitations](01-Generative-AI-Fundamentals/09-Model-Capabilities-and-Limitations.md) | Understand what AI models can and cannot reliably do. |
-| 1.10 | [Hallucinations](01-Generative-AI-Fundamentals/10-Hallucinations.md) | Learn why AI can generate plausible but incorrect information. |
-| 1.11 | [Knowledge and Information Freshness](01-Generative-AI-Fundamentals/11-Knowledge-and-Information-Freshness.md) | Understand model knowledge limits and the role of current sources. |
-| 1.12 | [AI Model Comparison](01-Generative-AI-Fundamentals/12-AI-Model-Comparison.md) | Compare AI assistants based on tasks, capabilities, and constraints. |
+| 1.1 | [Introduction to Artificial Intelligence](01-Generative-AI-Fundamentals/01-Introduction-to-Artificial-Intelligence/README.md) | Understand AI and its applications. |
+| 1.2 | [Machine Learning Fundamentals](01-Generative-AI-Fundamentals/02-Machine-Learning-Fundamentals/README.md) | Learn how machine learning differs from traditional programming. |
+| 1.3 | [Introduction to Generative AI](01-Generative-AI-Fundamentals/03-Introduction-to-Generative-AI/README.md) | Understand how generative AI creates content. |
+| 1.4 | [Understanding Large Language Models](01-Generative-AI-Fundamentals/04-Understanding-Large-Language-Models/README.md) | Learn the basic principles behind LLMs. |
+| 1.5 | [How LLMs Generate Responses](01-Generative-AI-Fundamentals/05-How-LLMs-Generate-Responses/README.md) | Understand next-token prediction at a high level. |
+| 1.6 | [Tokens and Tokenization](01-Generative-AI-Fundamentals/06-Tokens-and-Tokenization/README.md) | Learn how text is represented as tokens. |
+| 1.7 | [Context Windows](01-Generative-AI-Fundamentals/07-Context-Windows/README.md) | Understand the amount of information a model can process in context. |
+| 1.8 | [Training and Inference](01-Generative-AI-Fundamentals/08-Training-and-Inference/README.md) | Distinguish model training from response generation. |
+| 1.9 | [Model Capabilities and Limitations](01-Generative-AI-Fundamentals/09-Model-Capabilities-and-Limitations/README.md) | Understand what AI models can and cannot reliably do. |
+| 1.10 | [Hallucinations](01-Generative-AI-Fundamentals/10-Hallucinations/README.md) | Learn why AI can generate plausible but incorrect information. |
+| 1.11 | [Knowledge and Information Freshness](01-Generative-AI-Fundamentals/11-Knowledge-and-Information-Freshness/README.md) | Understand model knowledge limits and the role of current sources. |
+| 1.12 | [AI Model Comparison](01-Generative-AI-Fundamentals/12-AI-Model-Comparison/README.md) | Compare AI assistants based on tasks, capabilities, and constraints. |
 
 ---
 
@@ -254,16 +254,16 @@ Explore Claude and learn how to use its available features effectively for learn
 
 | # | Sub-Topic | Description |
 |---|---|---|
-| 2.1 | [Introduction to Anthropic](02-Introduction-to-Claude/01-Introduction-to-Anthropic.md) | Understand the organization behind Claude. |
-| 2.2 | [What Is Claude?](02-Introduction-to-Claude/02-What-Is-Claude.md) | Learn about Claude as an AI assistant. |
-| 2.3 | [Claude Model Families](02-Introduction-to-Claude/03-Claude-Model-Families.md) | Understand model selection and capability trade-offs. |
-| 2.4 | [Claude Interface](02-Introduction-to-Claude/04-Claude-Interface.md) | Navigate conversations and available features. |
-| 2.5 | [Conversation Management](02-Introduction-to-Claude/05-Conversation-Management.md) | Organize and continue conversations effectively. |
-| 2.6 | [Working with Files](02-Introduction-to-Claude/06-Working-with-Files.md) | Use supported document and file-analysis capabilities. |
-| 2.7 | [Research and Web-Enabled Tasks](02-Introduction-to-Claude/07-Research-and-Web-Enabled-Tasks.md) | Understand how supported research features can assist with current information. |
-| 2.8 | [Artifacts and Content Creation](02-Introduction-to-Claude/08-Artifacts-and-Content-Creation.md) | Explore supported ways to create and work with generated content. |
-| 2.9 | [Choosing the Right Capability](02-Introduction-to-Claude/09-Choosing-the-Right-Capability.md) | Match a task to the appropriate available feature. |
-| 2.10 | [Free and Paid Plans](02-Introduction-to-Claude/10-Free-and-Paid-Plans.md) | Understand feature availability and usage differences. |
+| 2.1 | [Introduction to Anthropic](02-Introduction-to-Claude/01-Introduction-to-Anthropic/README.md) | Understand the organization behind Claude. |
+| 2.2 | [What Is Claude?](02-Introduction-to-Claude/02-What-Is-Claude/README.md) | Learn about Claude as an AI assistant. |
+| 2.3 | [Claude Model Families](02-Introduction-to-Claude/03-Claude-Model-Families/README.md) | Understand model selection and capability trade-offs. |
+| 2.4 | [Claude Interface](02-Introduction-to-Claude/04-Claude-Interface/README.md) | Navigate conversations and available features. |
+| 2.5 | [Conversation Management](02-Introduction-to-Claude/05-Conversation-Management/README.md) | Organize and continue conversations effectively. |
+| 2.6 | [Working with Files](02-Introduction-to-Claude/06-Working-with-Files/README.md) | Use supported document and file-analysis capabilities. |
+| 2.7 | [Research and Web-Enabled Tasks](02-Introduction-to-Claude/07-Research-and-Web-Enabled-Tasks/README.md) | Understand how supported research features can assist with current information. |
+| 2.8 | [Artifacts and Content Creation](02-Introduction-to-Claude/08-Artifacts-and-Content-Creation/README.md) | Explore supported ways to create and work with generated content. |
+| 2.9 | [Choosing the Right Capability](02-Introduction-to-Claude/09-Choosing-the-Right-Capability/README.md) | Match a task to the appropriate available feature. |
+| 2.10 | [Free and Paid Plans](02-Introduction-to-Claude/10-Free-and-Paid-Plans/README.md) | Understand feature availability and usage differences. |
 
 ---
 
@@ -275,18 +275,18 @@ Learn how to communicate instructions clearly, provide useful context, and refin
 
 | # | Sub-Topic | Description |
 |---|---|---|
-| 3.1 | [Introduction to Prompt Engineering](03-Prompt-Engineering/01-Introduction-to-Prompt-Engineering.md) | Understand the purpose of prompt design. |
-| 3.2 | [Anatomy of a Good Prompt](03-Prompt-Engineering/02-Anatomy-of-a-Good-Prompt.md) | Identify instructions, context, task, constraints, and output format. |
-| 3.3 | [Role and Context](03-Prompt-Engineering/03-Role-and-Context.md) | Provide useful background for a task. |
-| 3.4 | [Clear Instructions](03-Prompt-Engineering/04-Clear-Instructions.md) | Reduce ambiguity and conflicting requirements. |
-| 3.5 | [Zero-Shot Prompting](03-Prompt-Engineering/05-Zero-Shot-Prompting.md) | Give instructions without examples. |
-| 3.6 | [Few-Shot Prompting](03-Prompt-Engineering/06-Few-Shot-Prompting.md) | Provide examples to guide the response. |
-| 3.7 | [Structured Output Prompts](03-Prompt-Engineering/07-Structured-Output-Prompts.md) | Request tables, lists, JSON, and other formats. |
-| 3.8 | [Prompt Decomposition](03-Prompt-Engineering/08-Prompt-Decomposition.md) | Break complex tasks into manageable steps. |
-| 3.9 | [Iterative Prompting](03-Prompt-Engineering/09-Iterative-Prompting.md) | Improve responses through follow-up instructions. |
-| 3.10 | [Reusable Prompt Templates](03-Prompt-Engineering/10-Reusable-Prompt-Templates.md) | Create templates for recurring tasks. |
-| 3.11 | [Common Prompting Mistakes](03-Prompt-Engineering/11-Common-Prompting-Mistakes.md) | Identify ineffective prompting patterns. |
-| 3.12 | [Prompt Engineering Lab](03-Prompt-Engineering/12-Prompt-Engineering-Lab.md) | Improve prompts through practical exercises. |
+| 3.1 | [Introduction to Prompt Engineering](03-Prompt-Engineering/01-Introduction-to-Prompt-Engineering/README.md) | Understand the purpose of prompt design. |
+| 3.2 | [Anatomy of a Good Prompt](03-Prompt-Engineering/02-Anatomy-of-a-Good-Prompt/README.md) | Identify instructions, context, task, constraints, and output format. |
+| 3.3 | [Role and Context](03-Prompt-Engineering/03-Role-and-Context/README.md) | Provide useful background for a task. |
+| 3.4 | [Clear Instructions](03-Prompt-Engineering/04-Clear-Instructions/README.md) | Reduce ambiguity and conflicting requirements. |
+| 3.5 | [Zero-Shot Prompting](03-Prompt-Engineering/05-Zero-Shot-Prompting/README.md) | Give instructions without examples. |
+| 3.6 | [Few-Shot Prompting](03-Prompt-Engineering/06-Few-Shot-Prompting/README.md) | Provide examples to guide the response. |
+| 3.7 | [Structured Output Prompts](03-Prompt-Engineering/07-Structured-Output-Prompts/README.md) | Request tables, lists, JSON, and other formats. |
+| 3.8 | [Prompt Decomposition](03-Prompt-Engineering/08-Prompt-Decomposition/README.md) | Break complex tasks into manageable steps. |
+| 3.9 | [Iterative Prompting](03-Prompt-Engineering/09-Iterative-Prompting/README.md) | Improve responses through follow-up instructions. |
+| 3.10 | [Reusable Prompt Templates](03-Prompt-Engineering/10-Reusable-Prompt-Templates/README.md) | Create templates for recurring tasks. |
+| 3.11 | [Common Prompting Mistakes](03-Prompt-Engineering/11-Common-Prompting-Mistakes/README.md) | Identify ineffective prompting patterns. |
+| 3.12 | [Prompt Engineering Lab](03-Prompt-Engineering/12-Prompt-Engineering-Lab/README.md) | Improve prompts through practical exercises. |
 
 ---
 
@@ -298,16 +298,16 @@ Learn how to evaluate generated responses rather than assuming that every answer
 
 | # | Sub-Topic | Description |
 |---|---|---|
-| 4.1 | [Introduction to Output Evaluation](04-Output-Evaluation-and-Validation/01-Introduction-to-Output-Evaluation.md) | Understand why generated responses need review. |
-| 4.2 | [Detecting Hallucinations](04-Output-Evaluation-and-Validation/02-Detecting-Hallucinations.md) | Identify unsupported or fabricated claims. |
-| 4.3 | [Fact-Checking Techniques](04-Output-Evaluation-and-Validation/03-Fact-Checking-Techniques.md) | Verify important claims using reliable sources. |
-| 4.4 | [Evaluating Completeness](04-Output-Evaluation-and-Validation/04-Evaluating-Completeness.md) | Check whether an answer satisfies all requirements. |
-| 4.5 | [Evaluating Relevance](04-Output-Evaluation-and-Validation/05-Evaluating-Relevance.md) | Determine whether a response addresses the actual task. |
-| 4.6 | [Evaluating Consistency](04-Output-Evaluation-and-Validation/06-Evaluating-Consistency.md) | Identify contradictions and inconsistencies. |
-| 4.7 | [Evaluating Generated Code](04-Output-Evaluation-and-Validation/07-Evaluating-Generated-Code.md) | Test code for correctness, security, and maintainability. |
-| 4.8 | [Evaluating Data and Calculations](04-Output-Evaluation-and-Validation/08-Evaluating-Data-and-Calculations.md) | Independently validate important results. |
-| 4.9 | [Human-in-the-Loop Validation](04-Output-Evaluation-and-Validation/09-Human-in-the-Loop-Validation.md) | Establish appropriate human review checkpoints. |
-| 4.10 | [Output Evaluation Lab](04-Output-Evaluation-and-Validation/10-Output-Evaluation-Lab.md) | Compare, assess, and improve AI-generated responses. |
+| 4.1 | [Introduction to Output Evaluation](04-Output-Evaluation-and-Validation/01-Introduction-to-Output-Evaluation/README.md) | Understand why generated responses need review. |
+| 4.2 | [Detecting Hallucinations](04-Output-Evaluation-and-Validation/02-Detecting-Hallucinations/README.md) | Identify unsupported or fabricated claims. |
+| 4.3 | [Fact-Checking Techniques](04-Output-Evaluation-and-Validation/03-Fact-Checking-Techniques/README.md) | Verify important claims using reliable sources. |
+| 4.4 | [Evaluating Completeness](04-Output-Evaluation-and-Validation/04-Evaluating-Completeness/README.md) | Check whether an answer satisfies all requirements. |
+| 4.5 | [Evaluating Relevance](04-Output-Evaluation-and-Validation/05-Evaluating-Relevance/README.md) | Determine whether a response addresses the actual task. |
+| 4.6 | [Evaluating Consistency](04-Output-Evaluation-and-Validation/06-Evaluating-Consistency/README.md) | Identify contradictions and inconsistencies. |
+| 4.7 | [Evaluating Generated Code](04-Output-Evaluation-and-Validation/07-Evaluating-Generated-Code/README.md) | Test code for correctness, security, and maintainability. |
+| 4.8 | [Evaluating Data and Calculations](04-Output-Evaluation-and-Validation/08-Evaluating-Data-and-Calculations/README.md) | Independently validate important results. |
+| 4.9 | [Human-in-the-Loop Validation](04-Output-Evaluation-and-Validation/09-Human-in-the-Loop-Validation/README.md) | Establish appropriate human review checkpoints. |
+| 4.10 | [Output Evaluation Lab](04-Output-Evaluation-and-Validation/10-Output-Evaluation-Lab/README.md) | Compare, assess, and improve AI-generated responses. |
 
 ---
 
@@ -319,17 +319,17 @@ Learn how to incorporate AI into practical tasks while retaining human oversight
 
 | # | Sub-Topic | Description |
 |---|---|---|
-| 5.1 | [Introduction to AI Workflows](05-AI-Assisted-Workflows/01-Introduction-to-AI-Workflows.md) | Understand AI-assisted task execution. |
-| 5.2 | [Identifying Suitable Tasks](05-AI-Assisted-Workflows/02-Identifying-Suitable-Tasks.md) | Determine which tasks benefit from AI assistance. |
-| 5.3 | [Research and Information Synthesis](05-AI-Assisted-Workflows/03-Research-and-Information-Synthesis.md) | Organize and summarize information. |
-| 5.4 | [Document Summarization](05-AI-Assisted-Workflows/04-Document-Summarization.md) | Extract important information from documents. |
-| 5.5 | [Professional Writing](05-AI-Assisted-Workflows/05-Professional-Writing.md) | Draft and improve workplace communication. |
-| 5.6 | [Brainstorming and Planning](05-AI-Assisted-Workflows/06-Brainstorming-and-Planning.md) | Generate and evaluate alternative ideas. |
-| 5.7 | [Problem Decomposition](05-AI-Assisted-Workflows/07-Problem-Decomposition.md) | Break complex problems into smaller tasks. |
-| 5.8 | [Designing Repeatable Workflows](05-AI-Assisted-Workflows/08-Designing-Repeatable-Workflows.md) | Build consistent processes for recurring tasks. |
-| 5.9 | [Workflow Quality Checks](05-AI-Assisted-Workflows/09-Workflow-Quality-Checks.md) | Verify the outputs produced at each stage. |
-| 5.10 | [Measuring Productivity](05-AI-Assisted-Workflows/10-Measuring-Productivity.md) | Evaluate time savings and output quality. |
-| 5.11 | [AI Workflow Lab](05-AI-Assisted-Workflows/11-AI-Workflow-Lab.md) | Design and evaluate a complete workflow. |
+| 5.1 | [Introduction to AI Workflows](05-AI-Assisted-Workflows/01-Introduction-to-AI-Workflows/README.md) | Understand AI-assisted task execution. |
+| 5.2 | [Identifying Suitable Tasks](05-AI-Assisted-Workflows/02-Identifying-Suitable-Tasks/README.md) | Determine which tasks benefit from AI assistance. |
+| 5.3 | [Research and Information Synthesis](05-AI-Assisted-Workflows/03-Research-and-Information-Synthesis/README.md) | Organize and summarize information. |
+| 5.4 | [Document Summarization](05-AI-Assisted-Workflows/04-Document-Summarization/README.md) | Extract important information from documents. |
+| 5.5 | [Professional Writing](05-AI-Assisted-Workflows/05-Professional-Writing/README.md) | Draft and improve workplace communication. |
+| 5.6 | [Brainstorming and Planning](05-AI-Assisted-Workflows/06-Brainstorming-and-Planning/README.md) | Generate and evaluate alternative ideas. |
+| 5.7 | [Problem Decomposition](05-AI-Assisted-Workflows/07-Problem-Decomposition/README.md) | Break complex problems into smaller tasks. |
+| 5.8 | [Designing Repeatable Workflows](05-AI-Assisted-Workflows/08-Designing-Repeatable-Workflows/README.md) | Build consistent processes for recurring tasks. |
+| 5.9 | [Workflow Quality Checks](05-AI-Assisted-Workflows/09-Workflow-Quality-Checks/README.md) | Verify the outputs produced at each stage. |
+| 5.10 | [Measuring Productivity](05-AI-Assisted-Workflows/10-Measuring-Productivity/README.md) | Evaluate time savings and output quality. |
+| 5.11 | [AI Workflow Lab](05-AI-Assisted-Workflows/11-AI-Workflow-Lab/README.md) | Design and evaluate a complete workflow. |
 
 ---
 
@@ -341,14 +341,14 @@ Learn how to organize AI-assisted work, provide relevant context, and use availa
 
 | # | Sub-Topic | Description |
 |---|---|---|
-| 6.1 | [Chats vs Projects](06-Projects-and-Knowledge-Management/01-Chats-vs-Projects.md) | Understand the differences between individual conversations and project workspaces. |
-| 6.2 | [Project Instructions](06-Projects-and-Knowledge-Management/02-Project-Instructions.md) | Define reusable instructions for a project. |
-| 6.3 | [Knowledge Files](06-Projects-and-Knowledge-Management/03-Knowledge-Files.md) | Supply supported reference documents. |
-| 6.4 | [Context Management](06-Projects-and-Knowledge-Management/04-Context-Management.md) | Provide the right information for a task. |
-| 6.5 | [Organizing Reference Material](06-Projects-and-Knowledge-Management/05-Organizing-Reference-Material.md) | Structure documentation for easier retrieval and use. |
-| 6.6 | [Maintaining Current Information](06-Projects-and-Knowledge-Management/06-Maintaining-Current-Information.md) | Keep project knowledge relevant and up to date. |
-| 6.7 | [Project Limitations](06-Projects-and-Knowledge-Management/07-Project-Limitations.md) | Understand context, file, and feature limitations. |
-| 6.8 | [Building a Knowledge Workspace](06-Projects-and-Knowledge-Management/08-Building-a-Knowledge-Workspace.md) | Create a practical project using sample documents. |
+| 6.1 | [Chats vs Projects](06-Projects-and-Knowledge-Management/01-Chats-vs-Projects/README.md) | Understand the differences between individual conversations and project workspaces. |
+| 6.2 | [Project Instructions](06-Projects-and-Knowledge-Management/02-Project-Instructions/README.md) | Define reusable instructions for a project. |
+| 6.3 | [Knowledge Files](06-Projects-and-Knowledge-Management/03-Knowledge-Files/README.md) | Supply supported reference documents. |
+| 6.4 | [Context Management](06-Projects-and-Knowledge-Management/04-Context-Management/README.md) | Provide the right information for a task. |
+| 6.5 | [Organizing Reference Material](06-Projects-and-Knowledge-Management/05-Organizing-Reference-Material/README.md) | Structure documentation for easier retrieval and use. |
+| 6.6 | [Maintaining Current Information](06-Projects-and-Knowledge-Management/06-Maintaining-Current-Information/README.md) | Keep project knowledge relevant and up to date. |
+| 6.7 | [Project Limitations](06-Projects-and-Knowledge-Management/07-Project-Limitations/README.md) | Understand context, file, and feature limitations. |
+| 6.8 | [Building a Knowledge Workspace](06-Projects-and-Knowledge-Management/08-Building-a-Knowledge-Workspace/README.md) | Create a practical project using sample documents. |
 
 ---
 
@@ -360,16 +360,16 @@ Understand how to use AI safely and responsibly in personal, educational, and pr
 
 | # | Sub-Topic | Description |
 |---|---|---|
-| 7.1 | [Introduction to Responsible AI](07-Responsible-AI-and-Governance/01-Introduction-to-Responsible-AI.md) | Understand responsible AI principles. |
-| 7.2 | [Privacy and Confidentiality](07-Responsible-AI-and-Governance/02-Privacy-and-Confidentiality.md) | Protect personal, business, and customer information. |
-| 7.3 | [Sensitive Data and Credentials](07-Responsible-AI-and-Governance/03-Sensitive-Data-and-Credentials.md) | Avoid exposing passwords, API keys, and secrets. |
-| 7.4 | [Data Handling Policies](07-Responsible-AI-and-Governance/04-Data-Handling-Policies.md) | Follow organizational rules for AI usage. |
-| 7.5 | [Bias and Fairness](07-Responsible-AI-and-Governance/05-Bias-and-Fairness.md) | Recognize potential bias in generated outputs. |
-| 7.6 | [Copyright and Intellectual Property](07-Responsible-AI-and-Governance/06-Copyright-and-Intellectual-Property.md) | Understand relevant content ownership and usage considerations. |
-| 7.7 | [Prompt Injection and Untrusted Content](07-Responsible-AI-and-Governance/07-Prompt-Injection-and-Untrusted-Content.md) | Recognize risks from malicious or misleading instructions in supplied content. |
-| 7.8 | [Human Accountability](07-Responsible-AI-and-Governance/08-Human-Accountability.md) | Understand why people remain responsible for consequential decisions. |
-| 7.9 | [Appropriate AI Usage](07-Responsible-AI-and-Governance/09-Appropriate-AI-Usage.md) | Recognize when human expertise or escalation is necessary. |
-| 7.10 | [Responsible AI Lab](07-Responsible-AI-and-Governance/10-Responsible-AI-Lab.md) | Assess risks and recommend appropriate safeguards. |
+| 7.1 | [Introduction to Responsible AI](07-Responsible-AI-and-Governance/01-Introduction-to-Responsible-AI/README.md) | Understand responsible AI principles. |
+| 7.2 | [Privacy and Confidentiality](07-Responsible-AI-and-Governance/02-Privacy-and-Confidentiality/README.md) | Protect personal, business, and customer information. |
+| 7.3 | [Sensitive Data and Credentials](07-Responsible-AI-and-Governance/03-Sensitive-Data-and-Credentials/README.md) | Avoid exposing passwords, API keys, and secrets. |
+| 7.4 | [Data Handling Policies](07-Responsible-AI-and-Governance/04-Data-Handling-Policies/README.md) | Follow organizational rules for AI usage. |
+| 7.5 | [Bias and Fairness](07-Responsible-AI-and-Governance/05-Bias-and-Fairness/README.md) | Recognize potential bias in generated outputs. |
+| 7.6 | [Copyright and Intellectual Property](07-Responsible-AI-and-Governance/06-Copyright-and-Intellectual-Property/README.md) | Understand relevant content ownership and usage considerations. |
+| 7.7 | [Prompt Injection and Untrusted Content](07-Responsible-AI-and-Governance/07-Prompt-Injection-and-Untrusted-Content/README.md) | Recognize risks from malicious or misleading instructions in supplied content. |
+| 7.8 | [Human Accountability](07-Responsible-AI-and-Governance/08-Human-Accountability/README.md) | Understand why people remain responsible for consequential decisions. |
+| 7.9 | [Appropriate AI Usage](07-Responsible-AI-and-Governance/09-Appropriate-AI-Usage/README.md) | Recognize when human expertise or escalation is necessary. |
+| 7.10 | [Responsible AI Lab](07-Responsible-AI-and-Governance/10-Responsible-AI-Lab/README.md) | Assess risks and recommend appropriate safeguards. |
 
 ---
 
@@ -381,15 +381,15 @@ Learn to diagnose weak responses, improve instructions, and make better decision
 
 | # | Sub-Topic | Description |
 |---|---|---|
-| 8.1 | [Why AI Responses Fail](08-Troubleshooting-and-Optimization/01-Why-AI-Responses-Fail.md) | Understand common causes of poor results. |
-| 8.2 | [Missing Context](08-Troubleshooting-and-Optimization/02-Missing-Context.md) | Identify when additional information is required. |
-| 8.3 | [Ambiguous Instructions](08-Troubleshooting-and-Optimization/03-Ambiguous-Instructions.md) | Improve unclear prompts. |
-| 8.4 | [Long Documents and Context Limits](08-Troubleshooting-and-Optimization/04-Long-Documents-and-Context-Limits.md) | Handle large amounts of information effectively. |
-| 8.5 | [Model Selection](08-Troubleshooting-and-Optimization/05-Model-Selection.md) | Choose a suitable model for the task. |
-| 8.6 | [Iterative Troubleshooting](08-Troubleshooting-and-Optimization/06-Iterative-Troubleshooting.md) | Refine a response systematically. |
-| 8.7 | [Quality, Speed, and Cost](08-Troubleshooting-and-Optimization/07-Quality-Speed-and-Cost.md) | Balance output quality and resource constraints. |
-| 8.8 | [Platform Limitations](08-Troubleshooting-and-Optimization/08-Platform-Limitations.md) | Recognize when a task needs another tool or approach. |
-| 8.9 | [Troubleshooting Lab](08-Troubleshooting-and-Optimization/09-Troubleshooting-Lab.md) | Diagnose and improve a failing AI workflow. |
+| 8.1 | [Why AI Responses Fail](08-Troubleshooting-and-Optimization/01-Why-AI-Responses-Fail/README.md) | Understand common causes of poor results. |
+| 8.2 | [Missing Context](08-Troubleshooting-and-Optimization/02-Missing-Context/README.md) | Identify when additional information is required. |
+| 8.3 | [Ambiguous Instructions](08-Troubleshooting-and-Optimization/03-Ambiguous-Instructions/README.md) | Improve unclear prompts. |
+| 8.4 | [Long Documents and Context Limits](08-Troubleshooting-and-Optimization/04-Long-Documents-and-Context-Limits/README.md) | Handle large amounts of information effectively. |
+| 8.5 | [Model Selection](08-Troubleshooting-and-Optimization/05-Model-Selection/README.md) | Choose a suitable model for the task. |
+| 8.6 | [Iterative Troubleshooting](08-Troubleshooting-and-Optimization/06-Iterative-Troubleshooting/README.md) | Refine a response systematically. |
+| 8.7 | [Quality, Speed, and Cost](08-Troubleshooting-and-Optimization/07-Quality-Speed-and-Cost/README.md) | Balance output quality and resource constraints. |
+| 8.8 | [Platform Limitations](08-Troubleshooting-and-Optimization/08-Platform-Limitations/README.md) | Recognize when a task needs another tool or approach. |
+| 8.9 | [Troubleshooting Lab](08-Troubleshooting-and-Optimization/09-Troubleshooting-Lab/README.md) | Diagnose and improve a failing AI workflow. |
 
 ---
 
@@ -401,15 +401,15 @@ Apply AI to software development while preserving code quality, security, testin
 
 | # | Sub-Topic | Description |
 |---|---|---|
-| 9.1 | [AI-Assisted Development](09-AI-for-Software-Developers/01-AI-Assisted-Development.md) | Understand AI's role in the software development lifecycle. |
-| 9.2 | [Code Generation](09-AI-for-Software-Developers/02-Code-Generation.md) | Generate code from clear requirements. |
-| 9.3 | [Code Explanation](09-AI-for-Software-Developers/03-Code-Explanation.md) | Understand unfamiliar code and logic. |
-| 9.4 | [Debugging and Error Analysis](09-AI-for-Software-Developers/04-Debugging-and-Error-Analysis.md) | Investigate errors and evaluate proposed fixes. |
-| 9.5 | [Refactoring](09-AI-for-Software-Developers/05-Refactoring.md) | Improve code readability and maintainability. |
-| 9.6 | [Unit Test Generation](09-AI-for-Software-Developers/06-Unit-Test-Generation.md) | Generate and validate test cases. |
-| 9.7 | [API Documentation](09-AI-for-Software-Developers/07-API-Documentation.md) | Draft and review technical documentation. |
-| 9.8 | [Code Review and Security](09-AI-for-Software-Developers/08-Code-Review-and-Security.md) | Identify potential quality and security issues. |
-| 9.9 | [Software Development Lab](09-AI-for-Software-Developers/09-Software-Development-Lab.md) | Complete a small development task using AI assistance. |
+| 9.1 | [AI-Assisted Development](09-AI-for-Software-Developers/01-AI-Assisted-Development/README.md) | Understand AI's role in the software development lifecycle. |
+| 9.2 | [Code Generation](09-AI-for-Software-Developers/02-Code-Generation/README.md) | Generate code from clear requirements. |
+| 9.3 | [Code Explanation](09-AI-for-Software-Developers/03-Code-Explanation/README.md) | Understand unfamiliar code and logic. |
+| 9.4 | [Debugging and Error Analysis](09-AI-for-Software-Developers/04-Debugging-and-Error-Analysis/README.md) | Investigate errors and evaluate proposed fixes. |
+| 9.5 | [Refactoring](09-AI-for-Software-Developers/05-Refactoring/README.md) | Improve code readability and maintainability. |
+| 9.6 | [Unit Test Generation](09-AI-for-Software-Developers/06-Unit-Test-Generation/README.md) | Generate and validate test cases. |
+| 9.7 | [API Documentation](09-AI-for-Software-Developers/07-API-Documentation/README.md) | Draft and review technical documentation. |
+| 9.8 | [Code Review and Security](09-AI-for-Software-Developers/08-Code-Review-and-Security/README.md) | Identify potential quality and security issues. |
+| 9.9 | [Software Development Lab](09-AI-for-Software-Developers/09-Software-Development-Lab/README.md) | Complete a small development task using AI assistance. |
 
 ---
 
@@ -421,18 +421,18 @@ Apply Claude and other AI assistants to common DevOps and cloud engineering task
 
 | # | Sub-Topic | Description |
 |---|---|---|
-| 10.1 | [AI-Assisted DevOps](10-AI-for-DevOps-and-Cloud/01-AI-Assisted-DevOps.md) | Understand AI applications across the DevOps lifecycle. |
-| 10.2 | [Linux Command Assistance](10-AI-for-DevOps-and-Cloud/02-Linux-Command-Assistance.md) | Understand and validate shell commands. |
-| 10.3 | [Bash Scripting](10-AI-for-DevOps-and-Cloud/03-Bash-Scripting.md) | Draft and review automation scripts. |
-| 10.4 | [Git and GitHub](10-AI-for-DevOps-and-Cloud/04-Git-and-GitHub.md) | Assist with Git workflows and documentation. |
-| 10.5 | [Dockerfile Review](10-AI-for-DevOps-and-Cloud/05-Dockerfile-Review.md) | Analyze container build files and potential improvements. |
-| 10.6 | [Jenkins and CI/CD](10-AI-for-DevOps-and-Cloud/06-Jenkins-and-CI-CD.md) | Understand and troubleshoot pipeline configurations. |
-| 10.7 | [Kubernetes Troubleshooting](10-AI-for-DevOps-and-Cloud/07-Kubernetes-Troubleshooting.md) | Analyze manifests and investigate possible deployment issues. |
-| 10.8 | [Terraform Assistance](10-AI-for-DevOps-and-Cloud/08-Terraform-Assistance.md) | Review infrastructure-as-code configurations. |
-| 10.9 | [AWS and Azure Troubleshooting](10-AI-for-DevOps-and-Cloud/09-AWS-and-Azure-Troubleshooting.md) | Investigate cloud configuration and deployment issues. |
-| 10.10 | [Log Analysis](10-AI-for-DevOps-and-Cloud/10-Log-Analysis.md) | Identify possible root causes from application and infrastructure logs. |
-| 10.11 | [Security and Operational Risks](10-AI-for-DevOps-and-Cloud/11-Security-and-Operational-Risks.md) | Review AI-generated commands and configuration changes safely. |
-| 10.12 | [DevOps AI Lab](10-AI-for-DevOps-and-Cloud/12-DevOps-AI-Lab.md) | Investigate a simulated deployment failure. |
+| 10.1 | [AI-Assisted DevOps](10-AI-for-DevOps-and-Cloud/01-AI-Assisted-DevOps/README.md) | Understand AI applications across the DevOps lifecycle. |
+| 10.2 | [Linux Command Assistance](10-AI-for-DevOps-and-Cloud/02-Linux-Command-Assistance/README.md) | Understand and validate shell commands. |
+| 10.3 | [Bash Scripting](10-AI-for-DevOps-and-Cloud/03-Bash-Scripting/README.md) | Draft and review automation scripts. |
+| 10.4 | [Git and GitHub](10-AI-for-DevOps-and-Cloud/04-Git-and-GitHub/README.md) | Assist with Git workflows and documentation. |
+| 10.5 | [Dockerfile Review](10-AI-for-DevOps-and-Cloud/05-Dockerfile-Review/README.md) | Analyze container build files and potential improvements. |
+| 10.6 | [Jenkins and CI/CD](10-AI-for-DevOps-and-Cloud/06-Jenkins-and-CI-CD/README.md) | Understand and troubleshoot pipeline configurations. |
+| 10.7 | [Kubernetes Troubleshooting](10-AI-for-DevOps-and-Cloud/07-Kubernetes-Troubleshooting/README.md) | Analyze manifests and investigate possible deployment issues. |
+| 10.8 | [Terraform Assistance](10-AI-for-DevOps-and-Cloud/08-Terraform-Assistance/README.md) | Review infrastructure-as-code configurations. |
+| 10.9 | [AWS and Azure Troubleshooting](10-AI-for-DevOps-and-Cloud/09-AWS-and-Azure-Troubleshooting/README.md) | Investigate cloud configuration and deployment issues. |
+| 10.10 | [Log Analysis](10-AI-for-DevOps-and-Cloud/10-Log-Analysis/README.md) | Identify possible root causes from application and infrastructure logs. |
+| 10.11 | [Security and Operational Risks](10-AI-for-DevOps-and-Cloud/11-Security-and-Operational-Risks/README.md) | Review AI-generated commands and configuration changes safely. |
+| 10.12 | [DevOps AI Lab](10-AI-for-DevOps-and-Cloud/12-DevOps-AI-Lab/README.md) | Investigate a simulated deployment failure. |
 
 > **Safety note:** Never blindly execute AI-generated commands or apply infrastructure changes in production. Validate commands, protect credentials, and follow change-management procedures.
 
@@ -446,14 +446,14 @@ Use AI to assist with test design, quality assurance, and defect investigation.
 
 | # | Sub-Topic | Description |
 |---|---|---|
-| 11.1 | [Introduction to AI-Assisted Testing](11-AI-for-QA-and-Testing/01-Introduction-to-AI-Assisted-Testing.md) | Understand AI applications in QA. |
-| 11.2 | [Test Case Generation](11-AI-for-QA-and-Testing/02-Test-Case-Generation.md) | Generate test cases from requirements. |
-| 11.3 | [Edge Case Identification](11-AI-for-QA-and-Testing/03-Edge-Case-Identification.md) | Identify unusual inputs and boundary conditions. |
-| 11.4 | [Test Data Design](11-AI-for-QA-and-Testing/04-Test-Data-Design.md) | Create appropriate sample test data. |
-| 11.5 | [Bug Report Preparation](11-AI-for-QA-and-Testing/05-Bug-Report-Preparation.md) | Write clear and reproducible defect reports. |
-| 11.6 | [Automation Script Assistance](11-AI-for-QA-and-Testing/06-Automation-Script-Assistance.md) | Draft and review test automation code. |
-| 11.7 | [Test Coverage Review](11-AI-for-QA-and-Testing/07-Test-Coverage-Review.md) | Identify potential gaps in testing. |
-| 11.8 | [QA Practical Lab](11-AI-for-QA-and-Testing/08-QA-Practical-Lab.md) | Create a test plan for a sample application. |
+| 11.1 | [Introduction to AI-Assisted Testing](11-AI-for-QA-and-Testing/01-Introduction-to-AI-Assisted-Testing/README.md) | Understand AI applications in QA. |
+| 11.2 | [Test Case Generation](11-AI-for-QA-and-Testing/02-Test-Case-Generation/README.md) | Generate test cases from requirements. |
+| 11.3 | [Edge Case Identification](11-AI-for-QA-and-Testing/03-Edge-Case-Identification/README.md) | Identify unusual inputs and boundary conditions. |
+| 11.4 | [Test Data Design](11-AI-for-QA-and-Testing/04-Test-Data-Design/README.md) | Create appropriate sample test data. |
+| 11.5 | [Bug Report Preparation](11-AI-for-QA-and-Testing/05-Bug-Report-Preparation/README.md) | Write clear and reproducible defect reports. |
+| 11.6 | [Automation Script Assistance](11-AI-for-QA-and-Testing/06-Automation-Script-Assistance/README.md) | Draft and review test automation code. |
+| 11.7 | [Test Coverage Review](11-AI-for-QA-and-Testing/07-Test-Coverage-Review/README.md) | Identify potential gaps in testing. |
+| 11.8 | [QA Practical Lab](11-AI-for-QA-and-Testing/08-QA-Practical-Lab/README.md) | Create a test plan for a sample application. |
 
 ---
 
@@ -465,14 +465,14 @@ Explore practical applications of AI in data analysis, reporting, research, and 
 
 | # | Sub-Topic | Description |
 |---|---|---|
-| 12.1 | [AI for Business Productivity](12-AI-for-Data-and-Business/01-AI-for-Business-Productivity.md) | Identify common professional use cases. |
-| 12.2 | [SQL Assistance](12-AI-for-Data-and-Business/02-SQL-Assistance.md) | Draft, explain, and validate SQL queries. |
-| 12.3 | [Spreadsheet Analysis](12-AI-for-Data-and-Business/03-Spreadsheet-Analysis.md) | Assist with formulas and structured data interpretation. |
-| 12.4 | [Report Generation](12-AI-for-Data-and-Business/04-Report-Generation.md) | Organize findings into clear reports. |
-| 12.5 | [Research and Summarization](12-AI-for-Data-and-Business/05-Research-and-Summarization.md) | Synthesize information from appropriate sources. |
-| 12.6 | [Requirements Analysis](12-AI-for-Data-and-Business/06-Requirements-Analysis.md) | Organize stakeholder requirements. |
-| 12.7 | [Meeting Minutes and Documentation](12-AI-for-Data-and-Business/07-Meeting-Minutes-and-Documentation.md) | Draft structured workplace documents. |
-| 12.8 | [Business AI Lab](12-AI-for-Data-and-Business/08-Business-AI-Lab.md) | Prepare a report from a fictional business dataset. |
+| 12.1 | [AI for Business Productivity](12-AI-for-Data-and-Business/01-AI-for-Business-Productivity/README.md) | Identify common professional use cases. |
+| 12.2 | [SQL Assistance](12-AI-for-Data-and-Business/02-SQL-Assistance/README.md) | Draft, explain, and validate SQL queries. |
+| 12.3 | [Spreadsheet Analysis](12-AI-for-Data-and-Business/03-Spreadsheet-Analysis/README.md) | Assist with formulas and structured data interpretation. |
+| 12.4 | [Report Generation](12-AI-for-Data-and-Business/04-Report-Generation/README.md) | Organize findings into clear reports. |
+| 12.5 | [Research and Summarization](12-AI-for-Data-and-Business/05-Research-and-Summarization/README.md) | Synthesize information from appropriate sources. |
+| 12.6 | [Requirements Analysis](12-AI-for-Data-and-Business/06-Requirements-Analysis/README.md) | Organize stakeholder requirements. |
+| 12.7 | [Meeting Minutes and Documentation](12-AI-for-Data-and-Business/07-Meeting-Minutes-and-Documentation/README.md) | Draft structured workplace documents. |
+| 12.8 | [Business AI Lab](12-AI-for-Data-and-Business/08-Business-AI-Lab/README.md) | Prepare a report from a fictional business dataset. |
 
 ---
 
@@ -486,19 +486,19 @@ This is an **optional advanced learning path**. Learners can complete the core C
 
 | # | Sub-Topic | Description |
 |---|---|---|
-| 13.1 | [Introduction to LLM APIs](13-Advanced-AI-Concepts/01-Introduction-to-LLM-APIs.md) | Understand how applications communicate with AI models. |
-| 13.2 | [API Authentication and Security](13-Advanced-AI-Concepts/02-API-Authentication-and-Security.md) | Learn secure credential handling and access control. |
-| 13.3 | [Tool Use and Function Calling](13-Advanced-AI-Concepts/03-Tool-Use-and-Function-Calling.md) | Understand how a model can request an application to run an approved tool. |
-| 13.4 | [Structured Responses](13-Advanced-AI-Concepts/04-Structured-Responses.md) | Work with constrained output formats. |
-| 13.5 | [Retrieval-Augmented Generation (RAG)](13-Advanced-AI-Concepts/05-Retrieval-Augmented-Generation-RAG.md) | Understand retrieval from external knowledge sources. |
-| 13.6 | [Model Context Protocol (MCP)](13-Advanced-AI-Concepts/06-Model-Context-Protocol-MCP.md) | Learn how MCP can connect AI applications to compatible tools and data sources. |
-| 13.7 | [AI Agents and Agentic AI](13-Advanced-AI-Concepts/07-AI-Agents.md) | Distinguish assistants, automation, and agents; understand goals, autonomy, and boundaries. |
-| 13.8 | [Agent Loops: Plan, Act, Observe, Repeat](13-Advanced-AI-Concepts/08-Agent-Loops-Plan-Act-Observe-Repeat.md) | Learn the basic cycle behind many tool-using agent systems. |
-| 13.9 | [Agent Memory and Context](13-Advanced-AI-Concepts/09-Agent-Memory-and-Context.md) | Explore conversation state, persistent memory concepts, and retrieval boundaries. |
-| 13.10 | [Workflow Orchestration and Multi-Agent Systems](13-Advanced-AI-Concepts/10-Workflow-Orchestration-and-Multi-Agent-Systems.md) | Understand when to use a single agent, a defined workflow, or multiple agents. |
-| 13.11 | [Human Approval and Agent Safety](13-Advanced-AI-Concepts/11-Human-Approval-and-Agent-Safety.md) | Apply least privilege, approval gates, limits, and safe handling of external actions. |
-| 13.12 | [AI Application and Agent Evaluation](13-Advanced-AI-Concepts/12-AI-Application-and-Agent-Evaluation.md) | Evaluate correctness, tool selection, task completion, and failure recovery. |
-| 13.13 | [Build a Simple Tool-Using Agent](13-Advanced-AI-Concepts/13-Build-a-Simple-Tool-Using-Agent.md) | Build a small educational agent with restricted tools and human oversight. |
+| 13.1 | [Introduction to LLM APIs](13-Advanced-AI-Concepts/01-Introduction-to-LLM-APIs/README.md) | Understand how applications communicate with AI models. |
+| 13.2 | [API Authentication and Security](13-Advanced-AI-Concepts/02-API-Authentication-and-Security/README.md) | Learn secure credential handling and access control. |
+| 13.3 | [Tool Use and Function Calling](13-Advanced-AI-Concepts/03-Tool-Use-and-Function-Calling/README.md) | Understand how a model can request an application to run an approved tool. |
+| 13.4 | [Structured Responses](13-Advanced-AI-Concepts/04-Structured-Responses/README.md) | Work with constrained output formats. |
+| 13.5 | [Retrieval-Augmented Generation (RAG)](13-Advanced-AI-Concepts/05-Retrieval-Augmented-Generation-RAG/README.md) | Understand retrieval from external knowledge sources. |
+| 13.6 | [Model Context Protocol (MCP)](13-Advanced-AI-Concepts/06-Model-Context-Protocol-MCP/README.md) | Learn how MCP can connect AI applications to compatible tools and data sources. |
+| 13.7 | [AI Agents and Agentic AI](13-Advanced-AI-Concepts/07-AI-Agents/README.md) | Distinguish assistants, automation, and agents; understand goals, autonomy, and boundaries. |
+| 13.8 | [Agent Loops: Plan, Act, Observe, Repeat](13-Advanced-AI-Concepts/08-Agent-Loops-Plan-Act-Observe-Repeat/README.md) | Learn the basic cycle behind many tool-using agent systems. |
+| 13.9 | [Agent Memory and Context](13-Advanced-AI-Concepts/09-Agent-Memory-and-Context/README.md) | Explore conversation state, persistent memory concepts, and retrieval boundaries. |
+| 13.10 | [Workflow Orchestration and Multi-Agent Systems](13-Advanced-AI-Concepts/10-Workflow-Orchestration-and-Multi-Agent-Systems/README.md) | Understand when to use a single agent, a defined workflow, or multiple agents. |
+| 13.11 | [Human Approval and Agent Safety](13-Advanced-AI-Concepts/11-Human-Approval-and-Agent-Safety/README.md) | Apply least privilege, approval gates, limits, and safe handling of external actions. |
+| 13.12 | [AI Application and Agent Evaluation](13-Advanced-AI-Concepts/12-AI-Application-and-Agent-Evaluation/README.md) | Evaluate correctness, tool selection, task completion, and failure recovery. |
+| 13.13 | [Build a Simple Tool-Using Agent](13-Advanced-AI-Concepts/13-Build-a-Simple-Tool-Using-Agent/README.md) | Build a small educational agent with restricted tools and human oversight. |
 
 ---
 
@@ -510,18 +510,18 @@ Prepare for the **Claude Certified Associate – Foundations** certification usi
 
 | # | Sub-Topic | Description |
 |---|---|---|
-| 14.1 | [Certification Overview](14-Certification-Preparation/01-Certification-Overview.md) | Understand the certification's purpose and scope. |
-| 14.2 | [Official Exam Blueprint](14-Certification-Preparation/02-Official-Exam-Blueprint.md) | Review the current exam domains and their weightings. |
-| 14.3 | [Domain-by-Domain Revision](14-Certification-Preparation/03-Domain-by-Domain-Revision.md) | Revise concepts according to the official blueprint. |
-| 14.4 | [Important Terminology](14-Certification-Preparation/04-Important-Terminology.md) | Review essential AI and Claude concepts. |
-| 14.5 | [Scenario-Based Questions](14-Certification-Preparation/05-Scenario-Based-Questions.md) | Practice applying concepts to workplace scenarios. |
-| 14.6 | [Practice Questions](14-Certification-Preparation/06-Practice-Questions.md) | Check understanding with original questions and explanations. |
-| 14.7 | [Mock Exam 1](14-Certification-Preparation/07-Mock-Exam-1.md) | Complete an initial assessment. |
-| 14.8 | [Mock Exam 2](14-Certification-Preparation/08-Mock-Exam-2.md) | Practice applying concepts across different scenarios. |
-| 14.9 | [Mock Exam 3](14-Certification-Preparation/09-Mock-Exam-3.md) | Complete a final practice assessment. |
-| 14.10 | [Weak-Area Analysis](14-Certification-Preparation/10-Weak-Area-Analysis.md) | Identify and revise topics that need improvement. |
-| 14.11 | [Revision Cheat Sheet](14-Certification-Preparation/11-Revision-Cheat-Sheet.md) | Review important concepts before the exam. |
-| 14.12 | [Exam-Day Preparation](14-Certification-Preparation/12-Exam-Day-Preparation.md) | Review current exam rules and practical preparation tips. |
+| 14.1 | [Certification Overview](14-Certification-Preparation/01-Certification-Overview/README.md) | Understand the certification's purpose and scope. |
+| 14.2 | [Official Exam Blueprint](14-Certification-Preparation/02-Official-Exam-Blueprint/README.md) | Review the current exam domains and their weightings. |
+| 14.3 | [Domain-by-Domain Revision](14-Certification-Preparation/03-Domain-by-Domain-Revision/README.md) | Revise concepts according to the official blueprint. |
+| 14.4 | [Important Terminology](14-Certification-Preparation/04-Important-Terminology/README.md) | Review essential AI and Claude concepts. |
+| 14.5 | [Scenario-Based Questions](14-Certification-Preparation/05-Scenario-Based-Questions/README.md) | Practice applying concepts to workplace scenarios. |
+| 14.6 | [Practice Questions](14-Certification-Preparation/06-Practice-Questions/README.md) | Check understanding with original questions and explanations. |
+| 14.7 | [Mock Exam 1](14-Certification-Preparation/07-Mock-Exam-1/README.md) | Complete an initial assessment. |
+| 14.8 | [Mock Exam 2](14-Certification-Preparation/08-Mock-Exam-2/README.md) | Practice applying concepts across different scenarios. |
+| 14.9 | [Mock Exam 3](14-Certification-Preparation/09-Mock-Exam-3/README.md) | Complete a final practice assessment. |
+| 14.10 | [Weak-Area Analysis](14-Certification-Preparation/10-Weak-Area-Analysis/README.md) | Identify and revise topics that need improvement. |
+| 14.11 | [Revision Cheat Sheet](14-Certification-Preparation/11-Revision-Cheat-Sheet/README.md) | Review important concepts before the exam. |
+| 14.12 | [Exam-Day Preparation](14-Certification-Preparation/12-Exam-Day-Preparation/README.md) | Review current exam rules and practical preparation tips. |
 
 ---
 
@@ -533,15 +533,15 @@ Reinforce theoretical concepts through practical exercises and guided activities
 
 | # | Sub-Topic | Description |
 |---|---|---|
-| 15.1 | [Prompt Engineering Lab](15-Hands-On-Labs/Lab-01-Prompt-Engineering.md) | Improve an unclear prompt using structured instructions. |
-| 15.2 | [Document Analysis Lab](15-Hands-On-Labs/Lab-02-Document-Analysis.md) | Summarize a sample document and verify key findings. |
-| 15.3 | [Output Evaluation Lab](15-Hands-On-Labs/Lab-03-Output-Evaluation.md) | Identify unsupported claims in generated responses. |
-| 15.4 | [Claude Projects Lab](15-Hands-On-Labs/Lab-04-Claude-Projects.md) | Organize project instructions and reference files. |
-| 15.5 | [Workflow Design Lab](15-Hands-On-Labs/Lab-05-Workflow-Design.md) | Create a repeatable AI-assisted workflow. |
-| 15.6 | [Responsible AI Lab](15-Hands-On-Labs/Lab-06-Responsible-AI.md) | Identify privacy and security risks in sample scenarios. |
-| 15.7 | [Troubleshooting Lab](15-Hands-On-Labs/Lab-07-Troubleshooting.md) | Diagnose weak responses and improve instructions. |
-| 15.8 | [Technical Assistance Lab](15-Hands-On-Labs/Lab-08-Technical-Assistance.md) | Evaluate AI-generated technical recommendations. |
-| 15.9 | [Introductory Agent Lab](15-Hands-On-Labs/Lab-09-Introductory-Agent.md) | Trace a simple agent loop and review tool calls, boundaries, and approval points. |
+| 15.1 | [Prompt Engineering Lab](15-Hands-On-Labs/Lab-01-Prompt-Engineering/README.md) | Improve an unclear prompt using structured instructions. |
+| 15.2 | [Document Analysis Lab](15-Hands-On-Labs/Lab-02-Document-Analysis/README.md) | Summarize a sample document and verify key findings. |
+| 15.3 | [Output Evaluation Lab](15-Hands-On-Labs/Lab-03-Output-Evaluation/README.md) | Identify unsupported claims in generated responses. |
+| 15.4 | [Claude Projects Lab](15-Hands-On-Labs/Lab-04-Claude-Projects/README.md) | Organize project instructions and reference files. |
+| 15.5 | [Workflow Design Lab](15-Hands-On-Labs/Lab-05-Workflow-Design/README.md) | Create a repeatable AI-assisted workflow. |
+| 15.6 | [Responsible AI Lab](15-Hands-On-Labs/Lab-06-Responsible-AI/README.md) | Identify privacy and security risks in sample scenarios. |
+| 15.7 | [Troubleshooting Lab](15-Hands-On-Labs/Lab-07-Troubleshooting/README.md) | Diagnose weak responses and improve instructions. |
+| 15.8 | [Technical Assistance Lab](15-Hands-On-Labs/Lab-08-Technical-Assistance/README.md) | Evaluate AI-generated technical recommendations. |
+| 15.9 | [Introductory Agent Lab](15-Hands-On-Labs/Lab-09-Introductory-Agent/README.md) | Trace a simple agent loop and review tool calls, boundaries, and approval points. |
 
 ---
 
@@ -553,11 +553,11 @@ Apply your knowledge to complete practical projects that demonstrate effective a
 
 | # | Sub-Topic | Description |
 |---|---|---|
-| 16.1 | [AI-Assisted Research Assistant](16-Capstone-Projects/Project-01-Research-Assistant.md) | Research a topic, synthesize sources, and validate important claims. |
-| 16.2 | [Technical Documentation Assistant](16-Capstone-Projects/Project-02-Documentation-Assistant.md) | Produce and review technical documentation using approved references. |
-| 16.3 | [DevOps Troubleshooting Playbook](16-Capstone-Projects/Project-03-DevOps-Troubleshooting.md) | Analyze simulated logs and create a validated troubleshooting procedure. |
-| 16.4 | [Business Knowledge Assistant](16-Capstone-Projects/Project-04-Business-Knowledge-Assistant.md) | Use approved reference documents to answer questions and draft reports. |
-| 16.5 | [IT Troubleshooting Agent (Optional)](16-Capstone-Projects/Project-05-IT-Troubleshooting-Agent.md) | Build an educational agent that analyzes simulated logs and recommends actions, with human approval before any change. |
+| 16.1 | [AI-Assisted Research Assistant](16-Capstone-Projects/Project-01-Research-Assistant/README.md) | Research a topic, synthesize sources, and validate important claims. |
+| 16.2 | [Technical Documentation Assistant](16-Capstone-Projects/Project-02-Documentation-Assistant/README.md) | Produce and review technical documentation using approved references. |
+| 16.3 | [DevOps Troubleshooting Playbook](16-Capstone-Projects/Project-03-DevOps-Troubleshooting/README.md) | Analyze simulated logs and create a validated troubleshooting procedure. |
+| 16.4 | [Business Knowledge Assistant](16-Capstone-Projects/Project-04-Business-Knowledge-Assistant/README.md) | Use approved reference documents to answer questions and draft reports. |
+| 16.5 | [IT Troubleshooting Agent (Optional)](16-Capstone-Projects/Project-05-IT-Troubleshooting-Agent/README.md) | Build an educational agent that analyzes simulated logs and recommends actions, with human approval before any change. |
 
 ---
 
@@ -569,13 +569,13 @@ Review key concepts and use these resources as a quick reference throughout your
 
 | # | Sub-Topic | Description |
 |---|---|---|
-| 17.1 | [AI Glossary](17-Revision-and-Reference/Glossary.md) | Review definitions of important AI terminology. |
-| 17.2 | [Prompt Engineering Cheat Sheet](17-Revision-and-Reference/Prompt-Engineering-Cheat-Sheet.md) | Quickly review techniques for writing better prompts. |
-| 17.3 | [Claude Feature Reference](17-Revision-and-Reference/Claude-Feature-Reference.md) | Review relevant Claude features and their uses. |
-| 17.4 | [Responsible AI Checklist](17-Revision-and-Reference/Responsible-AI-Checklist.md) | Follow practical safety and validation checks. |
-| 17.5 | [Frequently Asked Questions](17-Revision-and-Reference/FAQ.md) | Find answers to common learner questions. |
-| 17.6 | [Common Mistakes](17-Revision-and-Reference/Common-Mistakes.md) | Review frequent errors and how to avoid them. |
-| 17.7 | [Official Learning Resources](17-Revision-and-Reference/Resources.md) | Find documentation, courses, and certification resources. |
+| 17.1 | [AI Glossary](17-Revision-and-Reference/Glossary/README.md) | Review definitions of important AI terminology. |
+| 17.2 | [Prompt Engineering Cheat Sheet](17-Revision-and-Reference/Prompt-Engineering-Cheat-Sheet/README.md) | Quickly review techniques for writing better prompts. |
+| 17.3 | [Claude Feature Reference](17-Revision-and-Reference/Claude-Feature-Reference/README.md) | Review relevant Claude features and their uses. |
+| 17.4 | [Responsible AI Checklist](17-Revision-and-Reference/Responsible-AI-Checklist/README.md) | Follow practical safety and validation checks. |
+| 17.5 | [Frequently Asked Questions](17-Revision-and-Reference/FAQ/README.md) | Find answers to common learner questions. |
+| 17.6 | [Common Mistakes](17-Revision-and-Reference/Common-Mistakes/README.md) | Review frequent errors and how to avoid them. |
+| 17.7 | [Official Learning Resources](17-Revision-and-Reference/Resources/README.md) | Find documentation, courses, and certification resources. |
 
 ---
 
