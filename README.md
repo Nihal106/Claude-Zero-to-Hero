@@ -33,9 +33,7 @@
 </p>
 
 <p align="center">
-  A structured, practical learning path for understanding Claude,
-  mastering prompt engineering, evaluating AI outputs, and applying
-  generative AI to real-world professional tasks.
+  A structured learning path from AI fundamentals and effective Claude use to professional workflows, agentic AI concepts, hands-on labs, and practical projects.
 </p>
 
 ---
@@ -44,11 +42,11 @@
 
 Welcome to **Claude AI & Generative AI — Zero to Hero**, a structured learning repository designed to take learners from the fundamentals of generative AI to practical, responsible, and effective use of Claude in professional environments.
 
-This repository combines detailed explanations, practical examples, hands-on exercises, reusable prompt templates, real-world scenarios, and certification preparation materials.
+This repository combines detailed explanations, practical examples, hands-on exercises, reusable prompt templates, real-world scenarios, agentic AI foundations, and certification preparation materials.
 
 Instead of simply teaching users how to ask questions to an AI assistant, this learning path focuses on understanding how AI works, providing the right context, evaluating generated responses, improving workflows, and using AI responsibly.
 
-The skills covered here are transferable to other AI assistants and tools, including ChatGPT, Gemini, and Microsoft Copilot.
+The course progresses from using AI assistants to designing repeatable workflows and understanding tool-using AI agents. Advanced agent development is an optional extension, not a prerequisite for the core course or the Associate certification path. The skills covered here are transferable to other AI assistants and tools, including ChatGPT, Gemini, and Microsoft Copilot.
 
 Whether you are a student, software developer, DevOps engineer, QA engineer, data analyst, business professional, or someone beginning their AI journey, this repository provides a structured path for developing practical AI skills.
 
@@ -74,6 +72,9 @@ By completing this repository, you will learn how to:
 - Recognize privacy, security, copyright, and responsible AI considerations.
 - Troubleshoot ineffective AI interactions and improve output quality.
 - Build practical projects using AI-assisted workflows.
+- Explain the difference between AI assistants, workflow automation, and agentic AI systems.
+- Understand agent loops, tool use, memory, orchestration, and human approval at an introductory level.
+- Recognize the safety, security, and evaluation challenges of tool-using AI systems.
 - Prepare for the Claude Certified Associate – Foundations certification using the current official exam blueprint.
 
 ---
@@ -150,6 +151,21 @@ Hands-on Labs               Practice Exams
 
 ---
 
+## 🧭 Choose Your Learning Path
+
+You do not need to complete every module for every goal. Choose the path that matches your needs:
+
+| Path | Recommended Modules | Goal |
+|---|---|---|
+| **AI Beginner** | 00–08, then selected labs | Build AI literacy and learn to use Claude effectively and responsibly. |
+| **Claude Associate Preparation** | 00–08 plus 14, using the current official exam blueprint | Focus on the certification's published domains; the advanced agent module is optional. |
+| **Professional AI User** | 00–12, plus relevant labs and a capstone | Apply Claude to your role and build repeatable workflows. |
+| **Agentic AI Explorer** | Core modules plus 13, 15.9, and optionally 16.5 | Learn agent concepts and build a small, safety-conscious tool-using example. |
+
+The advanced path is an extension of the course, not a requirement for beginners or certification candidates. Agent examples should use restricted permissions and simulated or non-production environments unless a carefully reviewed deployment process is in place.
+
+---
+
 ## ⏱️ Suggested Study Plans
 
 These are suggested study schedules, not official certification requirements.
@@ -181,7 +197,7 @@ The actual time required depends on your prior experience, the depth of study, a
 | 10 | [AI for DevOps and Cloud](#10-ai-for-devops-and-cloud) | Apply AI to CI/CD and cloud operations. |
 | 11 | [AI for QA and Testing](#11-ai-for-qa-and-testing) | Improve test design and defect analysis. |
 | 12 | [AI for Data and Business](#12-ai-for-data-and-business) | Apply AI to analysis and reporting. |
-| 13 | [Advanced AI Concepts](#13-advanced-ai-concepts) | Explore APIs, RAG, MCP, and AI agents. |
+| 13 | [Agentic AI and Advanced Concepts](#13-agentic-ai-and-advanced-concepts) | Explore AI agents, tool use, MCP, APIs, RAG, and agent evaluation. |
 | 14 | [Certification Preparation](#14-claude-certification-preparation) | Prepare for the Claude certification. |
 | 15 | [Hands-On Labs](#15-hands-on-labs) | Practise with guided exercises. |
 | 16 | [Capstone Projects](#16-capstone-projects) | Build practical AI-assisted projects. |
@@ -460,25 +476,29 @@ Explore practical applications of AI in data analysis, reporting, research, and 
 
 ---
 
-# 13. Advanced AI Concepts
+# 13. Agentic AI and Advanced Concepts
 
-Explore technical concepts for learners interested in integrating AI into applications and automated workflows.
+Explore how AI systems can work toward goals through multiple steps, use approved tools, observe results, and adapt their next actions. This module also introduces the technical building blocks used in AI-enabled applications.
 
-This module is optional and is not required to complete the beginner-level learning path.
+This is an **optional advanced learning path**. Learners can complete the core Claude course without building agents, and agent development is not a stated prerequisite for the Claude Certified Associate – Foundations certification. The module begins with concepts before progressing to API-based practice.
 
-📂 **Explore:** [Advanced AI Concepts](13-Advanced-AI-Concepts/)
+📂 **Explore:** [Agentic AI and Advanced Concepts](13-Advanced-AI-Concepts/)
 
 | # | Sub-Topic | Description |
 |---|---|---|
 | 13.1 | [Introduction to LLM APIs](13-Advanced-AI-Concepts/01-Introduction-to-LLM-APIs.md) | Understand how applications communicate with AI models. |
 | 13.2 | [API Authentication and Security](13-Advanced-AI-Concepts/02-API-Authentication-and-Security.md) | Learn secure credential handling and access control. |
-| 13.3 | [Tool Use and Function Calling](13-Advanced-AI-Concepts/03-Tool-Use-and-Function-Calling.md) | Understand how models can request supported external actions. |
+| 13.3 | [Tool Use and Function Calling](13-Advanced-AI-Concepts/03-Tool-Use-and-Function-Calling.md) | Understand how a model can request an application to run an approved tool. |
 | 13.4 | [Structured Responses](13-Advanced-AI-Concepts/04-Structured-Responses.md) | Work with constrained output formats. |
 | 13.5 | [Retrieval-Augmented Generation (RAG)](13-Advanced-AI-Concepts/05-Retrieval-Augmented-Generation-RAG.md) | Understand retrieval from external knowledge sources. |
-| 13.6 | [Model Context Protocol (MCP)](13-Advanced-AI-Concepts/06-Model-Context-Protocol-MCP.md) | Learn the fundamentals of connecting AI applications to tools and data. |
-| 13.7 | [AI Agents](13-Advanced-AI-Concepts/07-AI-Agents.md) | Understand systems that coordinate multiple steps and tools. |
-| 13.8 | [AI Workflow Automation](13-Advanced-AI-Concepts/08-AI-Workflow-Automation.md) | Explore integrations and automated processes. |
-| 13.9 | [AI Application Evaluation](13-Advanced-AI-Concepts/09-AI-Application-Evaluation.md) | Test the reliability and quality of AI-enabled applications. |
+| 13.6 | [Model Context Protocol (MCP)](13-Advanced-AI-Concepts/06-Model-Context-Protocol-MCP.md) | Learn how MCP can connect AI applications to compatible tools and data sources. |
+| 13.7 | [AI Agents and Agentic AI](13-Advanced-AI-Concepts/07-AI-Agents.md) | Distinguish assistants, automation, and agents; understand goals, autonomy, and boundaries. |
+| 13.8 | [Agent Loops: Plan, Act, Observe, Repeat](13-Advanced-AI-Concepts/08-Agent-Loops-Plan-Act-Observe-Repeat.md) | Learn the basic cycle behind many tool-using agent systems. |
+| 13.9 | [Agent Memory and Context](13-Advanced-AI-Concepts/09-Agent-Memory-and-Context.md) | Explore conversation state, persistent memory concepts, and retrieval boundaries. |
+| 13.10 | [Workflow Orchestration and Multi-Agent Systems](13-Advanced-AI-Concepts/10-Workflow-Orchestration-and-Multi-Agent-Systems.md) | Understand when to use a single agent, a defined workflow, or multiple agents. |
+| 13.11 | [Human Approval and Agent Safety](13-Advanced-AI-Concepts/11-Human-Approval-and-Agent-Safety.md) | Apply least privilege, approval gates, limits, and safe handling of external actions. |
+| 13.12 | [AI Application and Agent Evaluation](13-Advanced-AI-Concepts/12-AI-Application-and-Agent-Evaluation.md) | Evaluate correctness, tool selection, task completion, and failure recovery. |
+| 13.13 | [Build a Simple Tool-Using Agent](13-Advanced-AI-Concepts/13-Build-a-Simple-Tool-Using-Agent.md) | Build a small educational agent with restricted tools and human oversight. |
 
 ---
 
@@ -521,6 +541,7 @@ Reinforce theoretical concepts through practical exercises and guided activities
 | 15.6 | [Responsible AI Lab](15-Hands-On-Labs/Lab-06-Responsible-AI.md) | Identify privacy and security risks in sample scenarios. |
 | 15.7 | [Troubleshooting Lab](15-Hands-On-Labs/Lab-07-Troubleshooting.md) | Diagnose weak responses and improve instructions. |
 | 15.8 | [Technical Assistance Lab](15-Hands-On-Labs/Lab-08-Technical-Assistance.md) | Evaluate AI-generated technical recommendations. |
+| 15.9 | [Introductory Agent Lab](15-Hands-On-Labs/Lab-09-Introductory-Agent.md) | Trace a simple agent loop and review tool calls, boundaries, and approval points. |
 
 ---
 
@@ -536,6 +557,7 @@ Apply your knowledge to complete practical projects that demonstrate effective a
 | 16.2 | [Technical Documentation Assistant](16-Capstone-Projects/Project-02-Documentation-Assistant.md) | Produce and review technical documentation using approved references. |
 | 16.3 | [DevOps Troubleshooting Playbook](16-Capstone-Projects/Project-03-DevOps-Troubleshooting.md) | Analyze simulated logs and create a validated troubleshooting procedure. |
 | 16.4 | [Business Knowledge Assistant](16-Capstone-Projects/Project-04-Business-Knowledge-Assistant.md) | Use approved reference documents to answer questions and draft reports. |
+| 16.5 | [IT Troubleshooting Agent (Optional)](16-Capstone-Projects/Project-05-IT-Troubleshooting-Agent.md) | Build an educational agent that analyzes simulated logs and recommends actions, with human approval before any change. |
 
 ---
 
@@ -570,6 +592,7 @@ For the best learning experience:
 7. Review the current official certification blueprint if you plan to take the exam.
 8. Complete practice assessments and revise your weak areas.
 9. Build at least one capstone project and document your approach.
+10. If you choose the advanced path, start with agent concepts and safety before attempting API-based agent development.
 
 Some Claude features may require an eligible account, subscription, or additional configuration. Where a particular feature is unavailable, use an equivalent exercise or study the concept through the official documentation.
 
@@ -624,7 +647,7 @@ Use this checklist to track your progress.
 - [ ] Module 10 — AI for DevOps and Cloud
 - [ ] Module 11 — AI for QA and Testing
 - [ ] Module 12 — AI for Data and Business
-- [ ] Module 13 — Advanced AI Concepts
+- [ ] Module 13 — Agentic AI and Advanced Concepts
 - [ ] Module 14 — Certification Preparation
 - [ ] Module 15 — Hands-On Labs
 - [ ] Module 16 — Capstone Projects
@@ -677,5 +700,5 @@ If you find this repository useful:
 </p>
 
 <p align="center">
-  <em>From Fundamentals to Professional AI Workflows — Zero to Hero.</em>
+  <em>From AI Fundamentals to Professional Workflows and Agentic AI — Zero to Hero.</em>
 </p>
