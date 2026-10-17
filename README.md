@@ -211,7 +211,7 @@ Build a clear understanding of the learning path before beginning the technical 
 
 Build a strong foundation in artificial intelligence, generative AI, large language models, and the concepts required to understand modern AI assistants.
 
-📂 **Explore:** [Generative AI Fundamentals](01-Generative-AI-Fundamentals/README.md)
+📂 **Explore:** [Generative AI Fundamentals](01-Generative-AI-Fundamentals/)
 
 | # | Sub-Topic | Description |
 |---|---|---|
@@ -234,7 +234,7 @@ Build a strong foundation in artificial intelligence, generative AI, large langu
 
 Explore Claude and learn how to use its available features effectively for learning and professional work.
 
-📂 **Explore:** [Introduction to Claude](02-Introduction-to-Claude/README.md)
+📂 **Explore:** [Introduction to Claude](02-Introduction-to-Claude/)
 
 | # | Sub-Topic | Description |
 |---|---|---|
@@ -255,7 +255,7 @@ Explore Claude and learn how to use its available features effectively for learn
 
 Learn how to communicate instructions clearly, provide useful context, and refine prompts to obtain better AI responses.
 
-📂 **Explore:** [Prompt Engineering](03-Prompt-Engineering/README.md)
+📂 **Explore:** [Prompt Engineering](03-Prompt-Engineering/)
 
 | # | Sub-Topic | Description |
 |---|---|---|
@@ -278,7 +278,7 @@ Learn how to communicate instructions clearly, provide useful context, and refin
 
 Learn how to evaluate generated responses rather than assuming that every answer is correct.
 
-📂 **Explore:** [Output Evaluation and Validation](04-Output-Evaluation-and-Validation/README.md)
+📂 **Explore:** [Output Evaluation and Validation](04-Output-Evaluation-and-Validation/)
 
 | # | Sub-Topic | Description |
 |---|---|---|
@@ -299,7 +299,7 @@ Learn how to evaluate generated responses rather than assuming that every answer
 
 Learn how to incorporate AI into practical tasks while retaining human oversight and responsibility.
 
-📂 **Explore:** [AI-Assisted Workflows](05-AI-Assisted-Workflows/README.md)
+📂 **Explore:** [AI-Assisted Workflows](05-AI-Assisted-Workflows/)
 
 | # | Sub-Topic | Description |
 |---|---|---|
@@ -321,7 +321,7 @@ Learn how to incorporate AI into practical tasks while retaining human oversight
 
 Learn how to organize AI-assisted work, provide relevant context, and use available project and reference-material features.
 
-📂 **Explore:** [Projects and Knowledge Management](06-Projects-and-Knowledge-Management/README.md)
+📂 **Explore:** [Projects and Knowledge Management](06-Projects-and-Knowledge-Management/)
 
 | # | Sub-Topic | Description |
 |---|---|---|
@@ -340,7 +340,7 @@ Learn how to organize AI-assisted work, provide relevant context, and use availa
 
 Understand how to use AI safely and responsibly in personal, educational, and professional environments.
 
-📂 **Explore:** [Responsible AI and Governance](07-Responsible-AI-and-Governance/README.md)
+📂 **Explore:** [Responsible AI and Governance](07-Responsible-AI-and-Governance/)
 
 | # | Sub-Topic | Description |
 |---|---|---|
@@ -361,7 +361,7 @@ Understand how to use AI safely and responsibly in personal, educational, and pr
 
 Learn to diagnose weak responses, improve instructions, and make better decisions about AI-assisted workflows.
 
-📂 **Explore:** [Troubleshooting and Optimization](08-Troubleshooting-and-Optimization/README.md)
+📂 **Explore:** [Troubleshooting and Optimization](08-Troubleshooting-and-Optimization/)
 
 | # | Sub-Topic | Description |
 |---|---|---|
@@ -381,7 +381,7 @@ Learn to diagnose weak responses, improve instructions, and make better decision
 
 Apply AI to software development while preserving code quality, security, testing, and developer responsibility.
 
-📂 **Explore:** [AI for Software Developers](09-AI-for-Software-Developers/README.md)
+📂 **Explore:** [AI for Software Developers](09-AI-for-Software-Developers/)
 
 | # | Sub-Topic | Description |
 |---|---|---|
@@ -401,7 +401,7 @@ Apply AI to software development while preserving code quality, security, testin
 
 Apply Claude and other AI assistants to common DevOps and cloud engineering tasks.
 
-📂 **Explore:** [AI for DevOps and Cloud](10-AI-for-DevOps-and-Cloud/README.md)
+📂 **Explore:** [AI for DevOps and Cloud](10-AI-for-DevOps-and-Cloud/)
 
 | # | Sub-Topic | Description |
 |---|---|---|
@@ -426,7 +426,7 @@ Apply Claude and other AI assistants to common DevOps and cloud engineering task
 
 Use AI to assist with test design, quality assurance, and defect investigation.
 
-📂 **Explore:** [AI for QA and Testing](11-AI-for-QA-and-Testing/README.md)
+📂 **Explore:** [AI for QA and Testing](11-AI-for-QA-and-Testing/)
 
 | # | Sub-Topic | Description |
 |---|---|---|
@@ -445,7 +445,7 @@ Use AI to assist with test design, quality assurance, and defect investigation.
 
 Explore practical applications of AI in data analysis, reporting, research, and business communication.
 
-📂 **Explore:** [AI for Data and Business](12-AI-for-Data-and-Business/README.md)
+📂 **Explore:** [AI for Data and Business](12-AI-for-Data-and-Business/)
 
 | # | Sub-Topic | Description |
 |---|---|---|
@@ -466,7 +466,7 @@ Explore technical concepts for learners interested in integrating AI into applic
 
 This module is optional and is not required to complete the beginner-level learning path.
 
-📂 **Explore:** [Advanced AI Concepts](13-Advanced-AI-Concepts/README.md)
+📂 **Explore:** [Advanced AI Concepts](13-Advanced-AI-Concepts/)
 
 | # | Sub-Topic | Description |
 |---|---|---|
@@ -486,7 +486,7 @@ This module is optional and is not required to complete the beginner-level learn
 
 Prepare for the **Claude Certified Associate – Foundations** certification using the current official exam guide and relevant learning resources.
 
-📂 **Explore:** [Certification Preparation](14-Certification-Preparation/README.md)
+📂 **Explore:** [Certification Preparation](14-Certification-Preparation/)
 
 | # | Sub-Topic | Description |
 |---|---|---|
@@ -509,7 +509,7 @@ Prepare for the **Claude Certified Associate – Foundations** certification usi
 
 Reinforce theoretical concepts through practical exercises and guided activities.
 
-📂 **Explore:** [Hands-On Labs](15-Hands-On-Labs/README.md)
+📂 **Explore:** [Hands-On Labs](15-Hands-On-Labs/)
 
 | # | Sub-Topic | Description |
 |---|---|---|
@@ -528,7 +528,7 @@ Reinforce theoretical concepts through practical exercises and guided activities
 
 Apply your knowledge to complete practical projects that demonstrate effective and responsible AI use.
 
-📂 **Explore:** [Capstone Projects](16-Capstone-Projects/README.md)
+📂 **Explore:** [Capstone Projects](16-Capstone-Projects/)
 
 | # | Sub-Topic | Description |
 |---|---|---|
@@ -543,7 +543,7 @@ Apply your knowledge to complete practical projects that demonstrate effective a
 
 Review key concepts and use these resources as a quick reference throughout your learning journey.
 
-📂 **Explore:** [Revision and Reference](17-Revision-and-Reference/README.md)
+📂 **Explore:** [Revision and Reference](17-Revision-and-Reference/)
 
 | # | Sub-Topic | Description |
 |---|---|---|
