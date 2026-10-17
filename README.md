@@ -194,7 +194,7 @@ The actual time required depends on your prior experience, the depth of study, a
 | 07 | [Responsible AI and Governance](#07-responsible-ai-and-governance) | Learn privacy, security, and responsible AI. |
 | 08 | [Troubleshooting and Optimization](#08-troubleshooting-and-optimization) | Improve AI responses and workflows. |
 | 09 | [AI for Software Developers](#09-ai-for-software-developers) | Apply AI to coding and debugging. |
-| 10 | [AI for DevOps and Cloud](#10-ai-for-devops-and-cloud) | Apply AI to CI/CD and cloud operations. |
+| 10 | [AI for DevOps and Cloud](#10-ai-for-devops-and-cloud-engineering) | Apply AI to CI/CD and cloud operations. |
 | 11 | [AI for QA and Testing](#11-ai-for-qa-and-testing) | Improve test design and defect analysis. |
 | 12 | [AI for Data and Business](#12-ai-for-data-and-business) | Apply AI to analysis and reporting. |
 | 13 | [Agentic AI and Advanced Concepts](#13-agentic-ai-and-advanced-concepts) | Explore AI agents, tool use, MCP, APIs, RAG, and agent evaluation. |
