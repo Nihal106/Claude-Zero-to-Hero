@@ -503,6 +503,57 @@ Prepare for the **Claude Certified Associate – Foundations** certification usi
 | 14.11 | [Revision Cheat Sheet](14-Certification-Preparation/11-Revision-Cheat-Sheet.md) | Review important concepts before the exam. |
 | 14.12 | [Exam-Day Preparation](14-Certification-Preparation/12-Exam-Day-Preparation.md) | Review current exam rules and practical preparation tips. |
 
+---
+
+# 15. Hands-On Labs
+
+Reinforce theoretical concepts through practical exercises and guided activities.
+
+📂 **Explore:** [Hands-On Labs](15-Hands-On-Labs/README.md)
+
+| # | Sub-Topic | Description |
+|---|---|---|
+| 15.1 | [Prompt Engineering Lab](15-Hands-On-Labs/Lab-01-Prompt-Engineering.md) | Improve an unclear prompt using structured instructions. |
+| 15.2 | [Document Analysis Lab](15-Hands-On-Labs/Lab-02-Document-Analysis.md) | Summarize a sample document and verify key findings. |
+| 15.3 | [Output Evaluation Lab](15-Hands-On-Labs/Lab-03-Output-Evaluation.md) | Identify unsupported claims in generated responses. |
+| 15.4 | [Claude Projects Lab](15-Hands-On-Labs/Lab-04-Claude-Projects.md) | Organize project instructions and reference files. |
+| 15.5 | [Workflow Design Lab](15-Hands-On-Labs/Lab-05-Workflow-Design.md) | Create a repeatable AI-assisted workflow. |
+| 15.6 | [Responsible AI Lab](15-Hands-On-Labs/Lab-06-Responsible-AI.md) | Identify privacy and security risks in sample scenarios. |
+| 15.7 | [Troubleshooting Lab](15-Hands-On-Labs/Lab-07-Troubleshooting.md) | Diagnose weak responses and improve instructions. |
+| 15.8 | [Technical Assistance Lab](15-Hands-On-Labs/Lab-08-Technical-Assistance.md) | Evaluate AI-generated technical recommendations. |
+
+---
+
+# 16. Capstone Projects
+
+Apply your knowledge to complete practical projects that demonstrate effective and responsible AI use.
+
+📂 **Explore:** [Capstone Projects](16-Capstone-Projects/README.md)
+
+| # | Sub-Topic | Description |
+|---|---|---|
+| 16.1 | [AI-Assisted Research Assistant](16-Capstone-Projects/Project-01-Research-Assistant.md) | Research a topic, synthesize sources, and validate important claims. |
+| 16.2 | [Technical Documentation Assistant](16-Capstone-Projects/Project-02-Documentation-Assistant.md) | Produce and review technical documentation using approved references. |
+| 16.3 | [DevOps Troubleshooting Playbook](16-Capstone-Projects/Project-03-DevOps-Troubleshooting.md) | Analyze simulated logs and create a validated troubleshooting procedure. |
+| 16.4 | [Business Knowledge Assistant](16-Capstone-Projects/Project-04-Business-Knowledge-Assistant.md) | Use approved reference documents to answer questions and draft reports. |
+
+---
+
+# 17. Revision and Reference
+
+Review key concepts and use these resources as a quick reference throughout your learning journey.
+
+📂 **Explore:** [Revision and Reference](17-Revision-and-Reference/README.md)
+
+| # | Sub-Topic | Description |
+|---|---|---|
+| 17.1 | [AI Glossary](17-Revision-and-Reference/Glossary.md) | Review definitions of important AI terminology. |
+| 17.2 | [Prompt Engineering Cheat Sheet](17-Revision-and-Reference/Prompt-Engineering-Cheat-Sheet.md) | Quickly review techniques for writing better prompts. |
+| 17.3 | [Claude Feature Reference](17-Revision-and-Reference/Claude-Feature-Reference.md) | Review relevant Claude features and their uses. |
+| 17.4 | [Responsible AI Checklist](17-Revision-and-Reference/Responsible-AI-Checklist.md) | Follow practical safety and validation checks. |
+| 17.5 | [Frequently Asked Questions](17-Revision-and-Reference/FAQ.md) | Find answers to common learner questions. |
+| 17.6 | [Common Mistakes](17-Revision-and-Reference/Common-Mistakes.md) | Review frequent errors and how to avoid them. |
+| 17.7 | [Official Learning Resources](17-Revision-and-Reference/Resources.md) | Find documentation, courses, and certification resources. |
 
 ---
 
